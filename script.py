@@ -18,7 +18,7 @@ if __name__ == '__main__':
 			if (run_guess(guess, answer)):
 				break
 		except ValueError:
-			print('PLEASE enter a number')
+			print('Please enter a number')
 			continue
 
 
